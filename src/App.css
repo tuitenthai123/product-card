@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -11,6 +14,21 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.ulnumber li {
+  margin-bottom: 0.6rem;
+  font-weight: 400;
+}
+
+.ulnumber{
+  color: hsl(14, 45%, 36%);
+  font-weight: 8  00;
+}
+
+.ulnumber span {
+  font-weight: 700;
+  color: hsl(30, 10%, 34%)
 }
 
 .App-header {
